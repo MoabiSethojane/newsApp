@@ -2,9 +2,9 @@ import * as React from 'react';
 import { Appbar } from 'react-native-paper';
 const Header = () => {
 return (
-    <Appbar.Header style={{marginTop:40, backgroundColor:'indigo'}}>
+    <Appbar.Header style={{marginTop:40, backgroundColor:'red'}}>
       
-      <Appbar.Content title="Kris TechNews Updates 2022" />
+      <Appbar.Content title="News update" />
       
     </Appbar.Header>
   );
